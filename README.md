@@ -12,7 +12,7 @@ In this noteook, I will be predicting if a news headline is sarcasm. This News H
 
 ### Models
 This problem is a binary classification problem where I will be using two models. A baseline of **Naive Bayes** and a more advanced **Deep Neural Network (DNN)** design using **BERT** as a base layer with multiple convolutional and dense layers to predict the sarcastic headlines.  
-For implementing **BERT**, I will be fine-tunning BERT by freezing it's trainable layers and only training the additional layers underneath.  
+For implementing **BERT**, I will be fine-tuning BERT by freezing it's trainable layers and only training the additional layers underneath.  
 
 *Note: The results from the DNN were trained on two tesla V100 32GB GPU's*  
 
