@@ -1,5 +1,8 @@
 # Sarcastic-Headline-Detection-with-BERT
 
+Original author of this notebook and repository: Derek Lilienthal
+Link to original repo: https://github.com/dblilienthal/Sarcastic-Headline-Detection-with-BERT
+
 ### Problem
 In this noteook, I will be predicting if a news headline is sarcasm. This News Headlines dataset for Sarcasm Detection is collected from two news website.   
 **_The Onion_**, which aims at producing sarcastic versions of current events.   
