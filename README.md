@@ -1,6 +1,7 @@
 # Sarcastic-Headline-Detection-with-BERT
 
 Original author of this notebook and repository: Derek Lilienthal
+
 Link to original repo: https://github.com/dblilienthal/Sarcastic-Headline-Detection-with-BERT
 
 ### Problem
